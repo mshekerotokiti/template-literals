@@ -11,7 +11,8 @@ console.log ("Every day we wake up; \n\ We brush, \n\ We take breakfast and go t
 console.log (`I love teaching:
 Music;
 Kiswahili;
-How to cook`); //using string literal
+How to cook and
+Business`); //using string literal
 
 const age = 15;
 const isAdult = age >= 18;
